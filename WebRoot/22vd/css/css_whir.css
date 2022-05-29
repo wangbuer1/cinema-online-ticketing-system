@@ -1,0 +1,18 @@
+﻿@charset "utf-8";
+
+
+/* ----- top ----- */
+#header{ width:100%; height:229px;}
+.top{ width:100%; height:34px; line-height:34px; background:#f2f2f2; border-bottom:1px solid #dfdfdf;}
+.topT{ width:1002px; height:34px; margin:0 auto;}
+.loginh{ float:left;}
+.loginh a{ font-size:12px; color:#666666; padding-right:20px;}
+.loginh a:hover,.loginh a.on{ color:#2f9def; text-decoration:none;}
+.time{ float:left; padding-right:20px;}
+.weather{ float:left;}
+.set{ float:right;}
+.set a{ font-size:12px; color:#666; padding-left:30px;}
+.set a:hover{ color:#2f9def; text-decoration:none;}
+.topM{ width:1002px; height:55px; margin:30px auto;}
+.topM .logo{ float:left;}
+
